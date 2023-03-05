@@ -28,6 +28,22 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
