@@ -10,12 +10,33 @@
       "surnames": "Veiga López",
       "title": "",
       "description": "",
+      "avatar": {
+        "alt": "Foto_CV.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/05/b30c0567-f519-4eff-8210-41e099e69272_foto_cv.jpg"
+      },
       "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iago-veiga/"
+      }
+    ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/iago-veiga/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
