@@ -11,8 +11,8 @@
       "title": "Product Owner en atSistemas",
       "description": "Soy una persona con una alta capacidad analítica y resolutiva, mi trabajo destaca por el grado de autoexigencia orientada al cumplimiento de objetivos y al cliente.\nTengo experiencia en el trabajo en equipo y soy capaz de dinamizar y liderar a las personas que me rodean así como integrarme en todo tipo de equipos de trabajo, para proponer, aportar y elaborar aquellas tareas que se me encomiendan.\nEntre mis conocimientos destacaría la resolución de problemas y el análisis de los mismos entre otros. También dispongo una excelente habilidad a la hora de autoformarme y documentarme, lo que me permite aplicar, en el trabajo diario, un nivel de optimización elevado y en continua evolución.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/554e8cf8-e92c-4d6a-b30d-7f54087d53b1_linkedin-photo-21983.linkedin-photo-21983",
-        "alt": "23/12/18/554e8cf8-e92c-4d6a-b30d-7f54087d53b1_linkedin-photo-21983.linkedin-photo-21983"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/35472e95-d759-4be2-8dd6-d24ec11e87ea_linkedin-photo-21983.linkedin-photo-21983",
+        "alt": "23/12/18/35472e95-d759-4be2-8dd6-d24ec11e87ea_linkedin-photo-21983.linkedin-photo-21983"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -25,6 +25,135 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/iago-veiga"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "knowmad mood",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/01dbf281-2d96-4414-a7e2-c1c21d83ff3b_linkedin-photo-21983.linkedin-photo-21983",
+            "alt": "23/12/18/01dbf281-2d96-4414-a7e2-c1c21d83ff3b_linkedin-photo-21983.linkedin-photo-21983"
+          }
+        },
+        "roles": [
+          {
+            "name": "Product Owner",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Product Owner en Zara.com INDITEX"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "atSistemas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/f4bfdb38-cefd-4b8e-852a-96030d160b9f_linkedin-photo-21983.linkedin-photo-21983",
+            "alt": "23/12/18/f4bfdb38-cefd-4b8e-852a-96030d160b9f_linkedin-photo-21983.linkedin-photo-21983"
+          }
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2020-01-01",
+            "finishDate": "2023-01-31",
+            "challenges": [
+              {
+                "description": "Jefe de Proyecto del equipo de soporte de Atención al Cliente en Zara.com"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "atSistemas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/7c19acbe-1f31-499d-844c-b1c3cd75ac74_linkedin-photo-21983.linkedin-photo-21983",
+            "alt": "23/12/18/7c19acbe-1f31-499d-844c-b1c3cd75ac74_linkedin-photo-21983.linkedin-photo-21983"
+          }
+        },
+        "roles": [
+          {
+            "name": "Soporte de aplicaciones Java N3",
+            "startDate": "2018-01-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "Soporte de aplicaciones Java N3 en Zara.com"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnocom",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/b527362d-7746-4b21-9e16-e05fabfb68f0_linkedin-photo-21983.linkedin-photo-21983",
+            "alt": "23/12/18/b527362d-7746-4b21-9e16-e05fabfb68f0_linkedin-photo-21983.linkedin-photo-21983"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2014-07-01",
+            "finishDate": "2017-12-31",
+            "challenges": [
+              {
+                "description": "Desarrollador web en R Cable"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnocom",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/9a527325-bead-4cd6-b33a-fb0098cf78af_linkedin-photo-21983.linkedin-photo-21983",
+            "alt": "23/12/18/9a527325-bead-4cd6-b33a-fb0098cf78af_linkedin-photo-21983.linkedin-photo-21983"
+          }
+        },
+        "roles": [
+          {
+            "name": "Supervisor de centro de atención telefónica",
+            "startDate": "2010-06-01",
+            "finishDate": "2014-07-31",
+            "challenges": [
+              {
+                "description": "Supervisor soporte móvil en R Cable"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnocom",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/893ec859-899e-4366-93cf-7dce76fd7ea4_linkedin-photo-21983.linkedin-photo-21983",
+            "alt": "23/12/18/893ec859-899e-4366-93cf-7dce76fd7ea4_linkedin-photo-21983.linkedin-photo-21983"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operador Helpdesk Nivel 2 - R Cable",
+            "startDate": "2007-09-01",
+            "finishDate": "2010-06-30",
+            "challenges": [
+              {
+                "description": "Operador Helpdesk Nivel 2 en R Cable Galicia"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
