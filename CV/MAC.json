@@ -8,10 +8,11 @@
     "profile": {
       "name": "Iago",
       "surnames": "Veiga López",
-      "title": "Title",
+      "title": "Product Owner en atSistemas",
+      "description": "Soy una persona con una alta capacidad analítica y resolutiva, mi trabajo destaca por el grado de autoexigencia orientada al cumplimiento de objetivos y al cliente.\nTengo experiencia en el trabajo en equipo y soy capaz de dinamizar y liderar a las personas que me rodean así como integrarme en todo tipo de equipos de trabajo, para proponer, aportar y elaborar aquellas tareas que se me encomiendan.\nEntre mis conocimientos destacaría la resolución de problemas y el análisis de los mismos entre otros. También dispongo una excelente habilidad a la hora de autoformarme y documentarme, lo que me permite aplicar, en el trabajo diario, un nivel de optimización elevado y en continua evolución.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/05/b30c0567-f519-4eff-8210-41e099e69272_foto_cv.jpg",
-        "alt": "Foto_CV.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/3962c273-2113-41c4-8272-9c5b95678a6b_linkedin-photo-21983.linkedin-photo-21983",
+        "alt": "23/12/18/3962c273-2113-41c4-8272-9c5b95678a6b_linkedin-photo-21983.linkedin-photo-21983"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -23,7 +24,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/iago-veiga/"
+        "URL": "https://linkedin.com/in/iago-veiga"
       }
     ]
   },
@@ -114,7 +115,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/iago-veiga/",
+          "URL": "https://linkedin.com/in/iago-veiga",
           "type": "linkedin"
         }
       ],
