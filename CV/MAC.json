@@ -1,24 +1,23 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Iago",
       "surnames": "Veiga López",
-      "title": "",
-      "description": "",
+      "title": "Title",
       "avatar": {
-        "alt": "Foto_CV.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/05/b30c0567-f519-4eff-8210-41e099e69272_foto_cv.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/05/b30c0567-f519-4eff-8210-41e099e69272_foto_cv.jpg",
+        "alt": "Foto_CV.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -31,16 +30,83 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Galician",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DB2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Miro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -48,8 +114,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/iago-veiga/"
+          "URL": "https://www.linkedin.com/in/iago-veiga/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "iago.veiga@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "620434745",
+          "countryCode": "+34"
         }
       ]
     },
@@ -60,5 +135,25 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Confluence",
+        "type": "technology"
+      },
+      {
+        "name": "DB2",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      }
+    ]
   }
 }
