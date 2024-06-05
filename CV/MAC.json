@@ -196,7 +196,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -250,12 +250,6 @@
       ],
       "contactMails": [
         "iago.veiga@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "620434745",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -277,7 +271,7 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
