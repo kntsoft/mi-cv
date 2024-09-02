@@ -265,6 +265,10 @@
         {
           "name": "Jira",
           "type": "technology"
+        },
+        {
+          "name": "Miro",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
