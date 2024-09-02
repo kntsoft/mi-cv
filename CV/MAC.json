@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/iago-veiga"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/kntsoft"
       }
     ]
   },
@@ -246,6 +250,10 @@
         {
           "URL": "https://linkedin.com/in/iago-veiga",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/kntsoft",
+          "type": "github"
         }
       ],
       "contactMails": [
