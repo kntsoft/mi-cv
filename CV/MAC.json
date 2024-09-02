@@ -261,6 +261,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Jira",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Product Manager",
         "Product Owner"
